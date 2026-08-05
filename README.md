@@ -18,6 +18,8 @@ The pipeline automates the complete workflow from data generation to cloud data 
 ### - Gold Layer: 
 - The processed data is transformed into (Fact & Dimension tables) and stored as Parquet files.
 
+### Workflow Orchestration
+- Apache Airflow automates and schedules the entire ETL pipeline.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
