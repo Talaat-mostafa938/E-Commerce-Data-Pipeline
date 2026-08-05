@@ -58,3 +58,13 @@ Snowflake Data Warehouse
 
 ---
 
+# Airflow DAG Workflow
+
+The pipeline is orchestrated using Apache Airflow with the following tasks:
+
+1. Bronze Layer
+2. Silver Layer
+3. Gold Layer
+
+
+---
