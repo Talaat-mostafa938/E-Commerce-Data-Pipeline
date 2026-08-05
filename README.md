@@ -57,8 +57,7 @@ project-root/
 │   └── Silver.py
 │
 ├── GoldLayer/
-│   ├── Gold.py
-│   └── silver_to_gold.py
+│   └── Gold.py
 │
 ├── notebooks/
 │
