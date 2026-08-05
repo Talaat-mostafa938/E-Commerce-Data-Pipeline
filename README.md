@@ -43,6 +43,37 @@ Gold Layer (Stored as Parquet Files)
 Snowflake Data Warehouse
 ```
 
+# Project Structure
+
+```bash
+project-root/
+│
+├── dags/
+│   └── nti_data_pipeline.py
+├── BronzeLayer/
+│   └── Bronze.py
+│
+├── SilverLayer/
+│   └── Silver.py
+│
+├── GoldLayer/
+│   ├── Gold.py
+│   └── silver_to_gold.py
+│
+│
+│
+├── notebooks/
+│
+├── raw_data/
+│
+├── docker-compose.yml
+│
+├── Dockerfile
+│
+└── README.md
+```
+
+
 ---
 
 # Tech Stack
