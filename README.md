@@ -83,6 +83,18 @@ The pipeline is orchestrated using Apache Airflow with the following tasks:
 ## 1. Airflow DAG Execution
 Successful execution of the ETL workflow.
 ![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/airflow.png)
-  
+
+---
+## 2. Snowflake Validation
+Final verification of loaded analytical tables in Snowflake.
+![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/snowflake.png)
+
+---
+## 3. PowerBI
+Created a Power BI Dashboard
+![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/Dashboard1.png)
+![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/Dashboard2.png)
+![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/Dashboard3.png)
+
 
 ---
