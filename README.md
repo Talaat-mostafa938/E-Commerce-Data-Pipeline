@@ -42,6 +42,7 @@ Gold Layer (Stored as Parquet Files)
           ▼
 Snowflake Data Warehouse
 ```
+--- 
 
 # Project Structure
 
