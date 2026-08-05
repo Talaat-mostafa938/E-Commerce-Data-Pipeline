@@ -6,7 +6,7 @@ The pipeline automates the complete workflow from data generation to cloud data 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## System Architecture
-(https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/System%20Architecture.jpeg)
+![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/System%20Architecture.jpeg)
 
 
 ### - Bronze Layer:
