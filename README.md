@@ -4,7 +4,7 @@ This project demonstrates an end-to-end E-Commerce Data ETL Pipeline for process
 
 The pipeline automates the complete workflow from data generation to cloud data warehousing using a Medallion Architecture (Bronze, Silver, Gold).
 
-### Bronze Layer: 
+### Bronze Layer:
 Raw JSON files are ingested into Hadoop HDFS using Apache Spark.
 
 ### Silver Layer: 
