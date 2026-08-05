@@ -60,8 +60,6 @@ project-root/
 │   ├── Gold.py
 │   └── silver_to_gold.py
 │
-│
-│
 ├── notebooks/
 │
 ├── raw_data/
