@@ -79,5 +79,10 @@ The pipeline is orchestrated using Apache Airflow with the following tasks:
 - Data successfully stored in HDFS.
 - Gold Layer tables successfully loaded into Snowflake.
 - Data quality checks completed successfully.
+---
+## 1. Airflow DAG Execution
+Successful execution of the ETL workflow.
+![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/airflow.png)
+  
 
 ---
