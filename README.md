@@ -123,7 +123,7 @@ Final verification of loaded analytical tables in Snowflake.
 ![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/snowflake.png)
 
 ---
-## 3. PowerBI
+## 4. PowerBI
 Created a Power BI Dashboard
 ![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/Dashboard1.png)
 ![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/Dashboard2.png)
