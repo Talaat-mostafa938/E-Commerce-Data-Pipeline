@@ -6,7 +6,6 @@ The pipeline automates the complete workflow from data generation to cloud data 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## System Architecture
-![Uploading WhatsApp Image 2026-08-05 at 9.39.59 PM.jpeg…]()
 
 
 
