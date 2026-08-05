@@ -113,7 +113,12 @@ Successful execution of the ETL workflow.
 ![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/airflow.png)
 
 ---
-## 2. Snowflake Validation
+## 2. HDFS Storage
+Verification of Bronze, Silver, and Gold layer storage.
+![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/HDFS.png)
+
+---
+## 3. Snowflake Validation
 Final verification of loaded analytical tables in Snowflake.
 ![image](https://github.com/Talaat-mostafa938/E-Commerce-Data-Pipeline/blob/main/Media/snowflake.png)
 
