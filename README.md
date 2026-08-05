@@ -10,7 +10,7 @@ The pipeline automates the complete workflow from data generation to cloud data 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ### - Bronze Layer:
-- Raw JSON files are ingested into Hadoop HDFS using Apache Spark.
+- Raw CSVs files are ingested into Hadoop HDFS using Apache Spark.
 
 ### - Silver Layer: 
 - PySpark performs data cleaning, preprocessing.
@@ -39,9 +39,22 @@ Gold Layer (Stored as Parquet Files)
           │
           ▼
 Snowflake Data Warehouse
+```
 
+---
 
----------------------------------------------------------------------------------------------------------------------------------------
-## Tech Stack
+# Tech Stack
 
+| Technology | Purpose |
+|---|---|
+| Python | Main programming language |
+| Apache Spark | Distributed data processing |
+| Hadoop HDFS | Distributed storage |
+| Apache Airflow | Workflow orchestration |
+| Snowflake | Cloud data warehouse |
+| Docker | Containerization |
+| PySpark | Spark API for Python |
+| YARN | Cluster resource management |
+
+---
 
