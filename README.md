@@ -15,4 +15,21 @@ The pipeline automates the complete workflow from data generation to cloud data 
 
 
 
+
 ## Pipeline Workflow
+Upload Raw Data to HDFS
+      │
+      ▼
+Raw CSV Data
+      │
+      ▼
+Bronze Layer (HDFS)
+      │
+      ▼
+Silver Layer (cleaning, preprocessing)
+      │
+      ▼
+Gold Layer (stored as Parquet files)
+      │
+      ▼
+Snowflake Data Warehouse
