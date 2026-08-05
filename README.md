@@ -67,6 +67,17 @@ The pipeline is orchestrated using Apache Airflow with the following tasks:
 1. Bronze Layer
 2. Silver Layer
 3. Gold Layer
+---
 
+# Final Validation
+
+## Execution Status
+- All Airflow tasks completed successfully.
+- Spark jobs executed successfully on YARN.
+
+## Data Validation
+- Data successfully stored in HDFS.
+- Gold Layer tables successfully loaded into Snowflake.
+- Data quality checks completed successfully.
 
 ---
