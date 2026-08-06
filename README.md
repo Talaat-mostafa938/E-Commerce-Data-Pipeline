@@ -132,3 +132,12 @@ Created a Power BI Dashboard
 
 
 ---
+## 👨‍💻 **Authors**
+
+| Name | Role |
+|------|------|
+| **Talaat Mostafa** | Big Data Engineer |
+| **Mohamed Khairy** | Big Data Engineer |
+
+**National Telecommunication Institute (NTI)**  
+Big Data & AI Track
